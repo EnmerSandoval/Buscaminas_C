@@ -1,0 +1,3 @@
+C:/Users/laptop/CLionProjects/Buscaminas/cmake-build-debug/CMakeFiles/Buscaminas.dir
+C:/Users/laptop/CLionProjects/Buscaminas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laptop/CLionProjects/Buscaminas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
